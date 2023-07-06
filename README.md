@@ -1,24 +1,10 @@
-# vite-vue
+# 원티드 7월 온보딩 첼린지
 
-## Project setup
-```
-npm install
-```
+**이 저장소는 7월 온보딩 챌린지를 진행할시 사용**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+    처음에는 vite를 사용하여 init 하였지만, 과제 및 정리를 진행하면 프로젝트구조가 변경될 예정입니다.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 과제 
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 1-4
+[과제 링크](https://lean-mahogany-686.notion.site/1-4-00a9f0c9a42641d18ddc989ceb412f1d)
